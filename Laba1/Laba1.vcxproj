@@ -142,6 +142,10 @@
     <ClCompile Include="Laba1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArrayList.h" />
+    <ClInclude Include="ArrayQueue.h" />
+    <ClInclude Include="ArraySet.h" />
+    <ClInclude Include="ArrayStack.h" />
     <ClInclude Include="IList.h" />
     <ClInclude Include="IQueue.h" />
     <ClInclude Include="ISet.h" />
