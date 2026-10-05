@@ -139,6 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayList.cpp" />
+    <ClCompile Include="ArrayQueue.cpp" />
+    <ClCompile Include="ArraySet.cpp" />
+    <ClCompile Include="ArrayStack.cpp" />
     <ClCompile Include="Laba1.cpp" />
   </ItemGroup>
   <ItemGroup>

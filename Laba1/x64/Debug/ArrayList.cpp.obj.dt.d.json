@@ -1,9 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\laba1.cpp",
+        "Source": "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\arraylist.cpp",
         "ProvidedModule": "",
         "Includes": [
+            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\arraylist.h",
+            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\ilist.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
@@ -127,16 +129,7 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\ctype.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\clocale",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
-            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream",
-            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\string",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\istack.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\iqueue.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\ilist.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\iset.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\arraystack.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\arrayqueue.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\arraylist.h",
-            "c:\\users\\user\\documents\\unik\\dikretsruktus\\laba1\\laba1\\laba1\\arrayset.h"
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
